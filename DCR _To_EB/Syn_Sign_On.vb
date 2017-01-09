@@ -7,8 +7,6 @@ Public Class Syn_Sign_On
     Public Session_ID As String
     Public Window_Title As String
     Public Sub Sign_On()
-
-
         Dim sign_str As String
         Dim Library_str As String
         Dim Username As String
