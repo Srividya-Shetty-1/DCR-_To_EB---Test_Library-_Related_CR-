@@ -82,7 +82,7 @@ Public Class Syn_Sign_On
 
         Library_str = Nothing
 
-        'Traverse towards library screen
+        'Traverse towards library Screen
         Do
             Library_str = Nothing
             Wrapper.HLL_ReadScreen(Wrapper.getPos(2, 2), 7, Library_str)
